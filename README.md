@@ -5,15 +5,17 @@ This is an interesting project made with react. It is a small project where you 
 After recognizing and adding the ingredients you consider necessary, you can generate recipes containing these ingredients.
 
 ## Demostration
-
+Project running on localhost
+[!Project demostration](demostration.mp4)
 
 ## Dependecies
 
-+ [Mobilenet v2] (https://www.kaggle.com/models/google/mobilenet-v2)
-+ [Tensorflowjs] (https://www.tensorflow.org/js)
-+ [Vite] (https://vitejs.dev/)
++ [Mobilenet v2](https://www.kaggle.com/models/google/mobilenet-v2)
++ [Tensorflowjs](https://www.tensorflow.org/js)
++ [Vite](https://vitejs.dev/)
++ [Edaman](https://developer.edamam.com/edamam-recipe-api)
 
-I use the pre-trained model ***Mobilenet v2** to recognize the ingredients and classify them.
+I use the pre-trained model ***Mobilenet v2*** to recognize the ingredients and classify them and ***Edaman API*** to get the recipes.
 
 ## Usage
 
