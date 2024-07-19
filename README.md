@@ -6,7 +6,10 @@ After recognizing and adding the ingredients you consider necessary, you can gen
 
 ## Demostration
 Project running on localhost
-[!Project demostration](demostration.mp4)
+
+<video width="640" height="480" controls muted autoplay>
+    <source src="demostration.mp4" type="video/mp4"/>
+</video>
 
 ## Dependecies
 
