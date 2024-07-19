@@ -1,8 +1,24 @@
-# React + Vite
+# Smart recipe maker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an interesting project made with react. It is a small project where you can put in front of the camera certain ingredients to be recognized by the system.
 
-Currently, two official plugins are available:
+After recognizing and adding the ingredients you consider necessary, you can generate recipes containing these ingredients.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demostration
+
+
+## Dependecies
+
++ [Mobilenet v2] (https://www.kaggle.com/models/google/mobilenet-v2)
++ [Tensorflowjs] (https://www.tensorflow.org/js)
++ [Vite] (https://vitejs.dev/)
+
+I use the pre-trained model ***Mobilenet v2** to recognize the ingredients and classify them.
+
+## Usage
+
++ Clone the repository `git clone https://github.com/Sarethjs/smart_recipe_maker.git`
++ Install the dependencies `npm install`
++ Run on the local host `npm run dev`
+
+Also you can build the project using vite: `npm run build`, see the `package.json` file for more information about scripts.
