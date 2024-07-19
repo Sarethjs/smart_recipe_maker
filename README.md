@@ -5,7 +5,7 @@ This is an interesting project made with react. It is a small project where you 
 After recognizing and adding the ingredients you consider necessary, you can generate recipes containing these ingredients.
 
 ## Demostration
-Project running on localhost, clcik on the image to watch the video
+Project running on localhost, click on the image to watch the video
 
 [![Watch demostration](image.png)](https://github.com/Sarethjs/smart_recipe_maker/raw/main/demostration.mp4)
 
